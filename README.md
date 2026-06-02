@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **kamalchalumuri@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1moaAkK_6SxcO7MfwySM1H401WsTRpFcH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/18meYB937CFyGyLSF6VOlcopfzAKQvOch/edit?usp=sharing&ouid=100879068645068808487&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
