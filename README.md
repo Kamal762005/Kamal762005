@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Kamal762005/Kamal762005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,17 +14,19 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm KAMAL</h1>
-<h3 align="center">A Cybersecurity enthusiast from India.</h3>
+<h3 align="center">A Cybersecurity enthusiast Ready to join the roles in the field of Cybersecurity and more focusing on VAPT roles.</h3>
 
 - 🔭 I’m currently working on [Port Scanner and Vulnerability Detector](https://github.com/Kamal762005/Port-Scanner-and-Vulnerability-Detector)
 
-- 🌱 I’m currently learning **Vulnerabilities for web Applications**
+- 🌱 I’m currently learning **Penetration Testing on web Applications**
 
-- 💬 Ask me about **Penetration Testing, Networking, Cryptography**
+- 👯 I’m looking to collaborate on **Network Security, Web Application Security, App Security**
+
+- 💬 Ask me about **Penetration Testing, Networking, Cryptography, SQL, Python Scripting, Shell Scripting**
 
 - 📫 How to reach me **kamalchalumuri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1moaAkK_6SxcO7MfwySM1H401WsTRpFcH/view?usp=sharing](https://drive.google.com/file/d/1moaAkK_6SxcO7MfwySM1H401WsTRpFcH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1moaAkK_6SxcO7MfwySM1H401WsTRpFcH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
