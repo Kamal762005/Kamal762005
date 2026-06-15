@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/kamal-chalumuri-814890258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamal-chalumuri" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
 ### Penetration Testing Tools
 ![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge)
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 💻 Programming Languages
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -58,21 +58,21 @@ Here are some ideas to get you started:
 
 ---
 
-## 🐧 Operating Systems
+### Operating Systems
 ![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
-## 🗄️ Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-## ⚙️ Tools & Platforms
+### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
