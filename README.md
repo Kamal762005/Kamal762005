@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/kamal-chalumuri-814890258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamal-chalumuri" height="30" width="40" /></a>
 </p>
 
+---
+
 ## Languages and Tools:
 
 ### Penetration Testing Tools
@@ -76,3 +78,19 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## Certifications
+
+[![Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)]([https://www.credly.com/your-link](https://drive.google.com/file/d/1cjeFBDOe75KaRYg8vo22Sj-cUS0bHYQz/view?usp=sharing))
+
+[![Networks](https://img.shields.io/badge/Cisco-Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)]([https://www.credly.com/your-link](https://www.credly.com/badges/9d0ef341-3693-46f7-9765-a64fcc324d34/public_url))
+
+### IBM
+
+[![Cyber Security Fundamentals](https://img.shields.io/badge/IBM-Cyber_Security-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/your-link)
+
+### AWS
+
+[![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/your-link)
