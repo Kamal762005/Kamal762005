@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 
 ## 🏆 Certifications
 
-[![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](YOUR_CERTIFICATION_LINK)
+[![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/6170b835-9734-46fc-a2c1-64287a7994e1/public_url)
 
-[![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](YOUR_CERTIFICATION_LINK)
+[![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/9d0ef341-3693-46f7-9765-a64fcc324d34/public_url)
 
 [![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](YOUR_CERTIFICATION_LINK)
 
